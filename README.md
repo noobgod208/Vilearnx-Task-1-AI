@@ -32,8 +32,3 @@ The goal of this task is to create a web application that allows users to input 
 - **Version Control:** Git
 - **Deployment:** Command Line Interface (CLI)
 
-## How to Use
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [repository URL]
